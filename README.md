@@ -1,0 +1,2 @@
+# goldCode
+I love program.
